@@ -10,7 +10,7 @@ img:
   alt: Natas Wargame Logo
 ---
 
-![Desktop View](/assets/img/favicons/nataslogo.png){: .normal }
+<img src='https://imgur.com/a/3Wmc94C'>
 
 # What is the Natas Wargame?
 
