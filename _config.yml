@@ -73,10 +73,10 @@ theme_mode: [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn: "https://static.vecteezy.com"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://static.vecteezy.com/system/resources/thumbnails/009/292/244/small/default-avatar-icon-of-social-media-user-vector.jpg"
+avatar: "/system/resources/thumbnails/009/292/244/small/default-avatar-icon-of-social-media-user-vector.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
