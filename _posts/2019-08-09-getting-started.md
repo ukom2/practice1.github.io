@@ -6,11 +6,11 @@ categories: [Blogging, Tutorial]
 tags: [getting-started]
 pin: true
 img:
-  path: '/img/nataslogo.png'
+  path: '/_posts/nataslogo.png'
   alt: Natas Wargame Logo
 ---
 
-
+![Desktop View](/assets/img/favicons/nataslogo.png){: .normal }
 
 # What is the Natas Wargame?
 
