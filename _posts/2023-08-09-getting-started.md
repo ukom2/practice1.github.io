@@ -22,5 +22,7 @@ Each level of natas consists of its own website located at `http://natasX.natas.
 Link to wargame: [overthewire.org/wargames/natas](http://overthewire.org/wargames/natas)
 <br><br>
 [Levels (0-10)](/posts/nataslevel0to10)
-<br>
+<br><br>
 [Levels (11-20)](/posts/nataslevel11-20)
+<br><br>
+[Levels (21-25)](/posts/nataslevel21-25)
