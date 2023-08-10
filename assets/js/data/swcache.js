@@ -1,40 +1,40 @@
 const resource = [
     /* --- CSS --- */
-    '/assets/css/style.css',
+    '/practice1.github.io/assets/css/style.css',
 
     /* --- PWA --- */
-    '/app.js',
-    '/sw.js',
+    '/practice1.github.io/app.js',
+    '/practice1.github.io/sw.js',
 
     /* --- HTML --- */
-    '/index.html',
-    '/404.html',
+    '/practice1.github.io/index.html',
+    '/practice1.github.io/404.html',
 
     
-        '/tabs/categories.html',
+        '/practice1.github.io/tabs/categories.html',
     
-        '/tabs/tags.html',
+        '/practice1.github.io/tabs/tags.html',
     
-        '/tabs/about.html',
+        '/practice1.github.io/tabs/about.html',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/assets/img/favicons/android-chrome-192x192.png',
-        '/assets/img/favicons/android-chrome-512x512.png',
-        '/assets/img/favicons/apple-touch-icon.png',
-        '/assets/img/favicons/favicon-16x16.png',
-        '/assets/img/favicons/favicon-32x32.png',
-        '/assets/img/favicons/favicon.ico',
-        '/assets/img/favicons/mstile-150x150.png',
-        '/assets/img/favicons/nataslogo.png',
-        '/assets/js/dist/categories.min.js',
-        '/assets/js/dist/commons.min.js',
-        '/assets/js/dist/home.min.js',
-        '/assets/js/dist/misc.min.js',
-        '/assets/js/dist/page.min.js',
-        '/assets/js/dist/post.min.js'
+        '/practice1.github.io/assets/img/favicons/android-chrome-192x192.png',
+        '/practice1.github.io/assets/img/favicons/android-chrome-512x512.png',
+        '/practice1.github.io/assets/img/favicons/apple-touch-icon.png',
+        '/practice1.github.io/assets/img/favicons/favicon-16x16.png',
+        '/practice1.github.io/assets/img/favicons/favicon-32x32.png',
+        '/practice1.github.io/assets/img/favicons/favicon.ico',
+        '/practice1.github.io/assets/img/favicons/mstile-150x150.png',
+        '/practice1.github.io/assets/img/favicons/nataslogo.png',
+        '/practice1.github.io/assets/js/dist/categories.min.js',
+        '/practice1.github.io/assets/js/dist/commons.min.js',
+        '/practice1.github.io/assets/js/dist/home.min.js',
+        '/practice1.github.io/assets/js/dist/misc.min.js',
+        '/practice1.github.io/assets/js/dist/page.min.js',
+        '/practice1.github.io/assets/js/dist/post.min.js'
 ];
 
 /* The request url with below domain will be cached */

@@ -1,75 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://ukom2.github.io/</id>
+  <id>https://ukom2.github.io/practice1.github.io/</id>
   <title>CTCS Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-08-09T16:56:23+04:00</updated>
+  <updated>2023-08-10T17:21:41+04:00</updated>
   <author>
-    <name>Kou M</name>
-    <uri>https://ukom2.github.io/</uri>
+    <name>ukom2</name>
+    <uri>https://ukom2.github.io/practice1.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://ukom2.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://ukom2.github.io/practice1.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://ukom2.github.io/"/>
+    href="https://ukom2.github.io/practice1.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 Kou M </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <rights> © 2023 ukom2 </rights>
+  <icon>/practice1.github.io/assets/img/favicons/favicon.ico</icon>
+  <logo>/practice1.github.io/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Introduction to Natas Wargame</title>
-    <link href="https://ukom2.github.io/posts/getting-started/" rel="alternate" type="text/html" title="Introduction to Natas Wargame" />
-    <published>2023-08-07T16:55:00+04:00</published>
+    <title>Natas Wargame Writeup (Levels 0-10)</title>
+    <link href="https://ukom2.github.io/practice1.github.io/posts/nataslevel0to10/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 0-10)" />
+    <published>2023-08-07T16:57:00+04:00</published>
   
-    <updated>2023-08-07T16:55:00+04:00</updated>
+    <updated>2023-08-10T15:38:20+04:00</updated>
   
-    <id>https://ukom2.github.io/posts/getting-started/</id>
-    <content src="https://ukom2.github.io/posts/getting-started/" />
-    <author>
-      <name>ukom2</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Introduction" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      What is the Natas Wargame?
-
-Natas teaches the basics of serverside cybersecurity through practical application in a ‘capture the flag’ style game, and the player, or attacker, learns how to certain mechanics of web security are used and possible vulnerabilities.
-
-How Does the Wargame work?
-
-Each level of natas consists of its own website located at http://natasX.natas.labs.overthewire.org, wher...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Natas Wargame Writeup (Levels 21-25)</title>
-    <link href="https://ukom2.github.io/posts/nataslevel21-25/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 21-25)" />
-    <published>2023-08-07T16:55:00+04:00</published>
-  
-    <updated>2023-08-07T16:55:00+04:00</updated>
-  
-    <id>https://ukom2.github.io/posts/nataslevel21-25/</id>
-    <content src="https://ukom2.github.io/posts/nataslevel21-25/" />
+    <id>https://ukom2.github.io/practice1.github.io/posts/nataslevel0to10/</id>
+    <content src="https://ukom2.github.io/practice1.github.io/posts/nataslevel0to10/" />
     <author>
       <name>ukom2</name>
     </author>
@@ -92,20 +50,8 @@ Each level of natas consists of its own website located at http://natasX.natas.l
 
       Introduction
 
-This blog post contains the writeup for the natas wargame levels 21 to 25.
-If you haven’t already, I recommend reading the previous articles on the introduction and the writeups on Levels 0-10 and Levels 11-20.
-
-Level 21
-URL: http://natas21.natas.labs.overthewire.org
-Credentials: natas21:89OWrTkGmiLZLv12JY4tLj2c4FW0xn56
-
-
-
-Code
-
-&amp;lt;html&amp;gt;
-&amp;lt;body&amp;gt;
-&amp;lt;h1&amp;gt;natas21&amp;lt;/h1&amp;g...
+This writeup demonstrates each level of the natas wargame and all solutions needed to solve each level alongside the password and possible real world fixes to prevent the exploiting of vulnerabilities.
+In this writeup I will present everything in levels 0 - 10. The code in each level will be posted at the start of the level section, followed by the level credentials, and the passw...
     </summary>
   
 
@@ -114,13 +60,13 @@ Code
   
   <entry>
     <title>Natas Wargame Writeup (Levels 11-20)</title>
-    <link href="https://ukom2.github.io/posts/nataslevel11-20/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 11-20)" />
-    <published>2023-08-07T16:55:00+04:00</published>
+    <link href="https://ukom2.github.io/practice1.github.io/posts/nataslevel11-20/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 11-20)" />
+    <published>2023-08-07T16:56:00+04:00</published>
   
-    <updated>2023-08-07T16:55:00+04:00</updated>
+    <updated>2023-08-10T11:27:11+04:00</updated>
   
-    <id>https://ukom2.github.io/posts/nataslevel11-20/</id>
-    <content src="https://ukom2.github.io/posts/nataslevel11-20/" />
+    <id>https://ukom2.github.io/practice1.github.io/posts/nataslevel11-20/</id>
+    <content src="https://ukom2.github.io/practice1.github.io/posts/nataslevel11-20/" />
     <author>
       <name>ukom2</name>
     </author>
@@ -164,14 +110,56 @@ $defaultdata = array( "showpassword"=&amp;gt;"no", "bgcolor"=&amp;gt;"#...
 
   
   <entry>
-    <title>Natas Wargame Writeup (Levels 0-10)</title>
-    <link href="https://ukom2.github.io/posts/nataslevel0to10/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 0-10)" />
+    <title>Introduction to Natas Wargame</title>
+    <link href="https://ukom2.github.io/practice1.github.io/posts/getting-started/" rel="alternate" type="text/html" title="Introduction to Natas Wargame" />
     <published>2023-08-07T16:55:00+04:00</published>
   
-    <updated>2023-08-07T16:55:00+04:00</updated>
+    <updated>2023-08-10T11:20:17+04:00</updated>
   
-    <id>https://ukom2.github.io/posts/nataslevel0to10/</id>
-    <content src="https://ukom2.github.io/posts/nataslevel0to10/" />
+    <id>https://ukom2.github.io/practice1.github.io/posts/getting-started/</id>
+    <content src="https://ukom2.github.io/practice1.github.io/posts/getting-started/" />
+    <author>
+      <name>ukom2</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Introduction" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      What is the Natas Wargame?
+
+Natas teaches the basics of serverside cybersecurity through practical application in a ‘capture the flag’ style game, and the player, or attacker, learns how to certain mechanics of web security are used and possible vulnerabilities.
+
+How Does the Wargame work?
+
+Each level of natas consists of its own website located at http://natasX.natas.labs.overthewire.org, wher...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Natas Wargame Writeup (Levels 21-25)</title>
+    <link href="https://ukom2.github.io/practice1.github.io/posts/nataslevel21-25/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 21-25)" />
+    <published>2023-08-07T16:55:00+04:00</published>
+  
+    <updated>2023-08-10T11:43:19+04:00</updated>
+  
+    <id>https://ukom2.github.io/practice1.github.io/posts/nataslevel21-25/</id>
+    <content src="https://ukom2.github.io/practice1.github.io/posts/nataslevel21-25/" />
     <author>
       <name>ukom2</name>
     </author>
@@ -194,58 +182,20 @@ $defaultdata = array( "showpassword"=&amp;gt;"no", "bgcolor"=&amp;gt;"#...
 
       Introduction
 
-This writeup demonstrates each level of the natas wargame and all solutions needed to solve each level alongside the password and possible real world fixes to prevent the exploiting of vulnerabilities.
-In this writeup I will present everything in levels 0 - 10. The code in each level will be posted at the start of the level section, followed by the level credentials, and the passw...
-    </summary>
-  
+This blog post contains the writeup for the natas wargame levels 21 to 25.
+If you haven’t already, I recommend reading the previous articles on the introduction and the writeups on Levels 0-10 and Levels 11-20.
 
-  </entry>
-
-  
-  <entry>
-    <title>Text and Typography</title>
-    <link href="https://ukom2.github.io/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
-    <published>2019-08-08T07:33:00+04:00</published>
-  
-    <updated>2023-08-09T16:50:59+04:00</updated>
-  
-    <id>https://ukom2.github.io/posts/text-and-typography/</id>
-    <content src="https://ukom2.github.io/posts/text-and-typography/" />
-    <author>
-      <name>cotes</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Demo" />
-    
-  
-
-  
-    <summary>
-      
+Level 21
+URL: http://natas21.natas.labs.overthewire.org
+Credentials: natas21:89OWrTkGmiLZLv12JY4tLj2c4FW0xn56
 
 
 
+Code
 
-
-      This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.
-
-Headings
-
-H1 - heading
-
-H2 - heading
-
-H3 - heading
-
-H4 - heading
-
-Paragraph
-
-Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilis...
+&amp;lt;html&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;h1&amp;gt;natas21&amp;lt;/h1&amp;g...
     </summary>
   
 
