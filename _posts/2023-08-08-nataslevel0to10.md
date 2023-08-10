@@ -21,7 +21,10 @@ If you haven't already, check out [**the introduction to the wargame.**](/posts/
 
 ## Level 0
 ##### URL: [http://natas0.natas.labs.overthewire.org](http://natas0.natas.labs.overthewire.org)
-Credentials: `natas0:natas0`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas0:natas0
+</details>
 
 ***
 
@@ -60,7 +63,10 @@ The real world solution to a vulnerability such as this would be to store the se
 
 ## Level 1
 ##### URL: [http://natas1.natas.labs.overthewire.org](http://natas1.natas.labs.overthewire.org)
-Credentials: `natas1:g9D9cREhslqBKtcA2uocGHPfMZVzeFK6`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas1:g9D9cREhslqBKtcA2uocGHPfMZVzeFK6
+</details>
 
 ***
 
@@ -83,7 +89,7 @@ Credentials: `natas1:g9D9cREhslqBKtcA2uocGHPfMZVzeFK6`
 ***
 
 ### Solution
-In the second level, the solution was to, since right clicking was disabled, use the browser shortcut combination to inspect the page and read the source code. Since I used the Macintosh OS, I had to use `CMD + OPT + I`. (Ctrl+Shift+I for WIN OS) This level disabled right clicking, returning an alert saying that it was disabled whenever right clicking was attempted. Upon inspecting, I could see that the password was commented out via the `<!- -  (comment)  - - >` method.
+In the second level, the solution was to, since right clicking was disabled, use the browser shortcut combination to inspect the page and read the source code. Since I used the Macintosh OS, I had to use `CMD + OPT + I`. (Ctrl+Shift+I for WIN OS) This level disabled right clicking, returning an alert saying that it was disabled whenever right clicking was attempted. Upon inspecting, I could see that the password was commented out via the `<!--  (comment)  -->` method.
 <br>
 ### Fix
 The fix for a vulnerability like this should be almost identical to the solution proposed in Level 0, and to sum it up, it is to store sensitive information in a secure file. Moreover, disabling right click in the website may be detrimental towards the overall user experience which may drive users away from visiting the page as without right click, some other features may be disabled which makes it harder for the user.
@@ -97,7 +103,10 @@ The fix for a vulnerability like this should be almost identical to the solution
 
 ## Level 2
 ##### URL: [http://natas2.natas.labs.overthewire.org](http://natas2.natas.labs.overthewire.org)
-Credentials: `natas2:h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas2:h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7
+</details>
 
 ***
 
@@ -130,7 +139,10 @@ The solution for this problem would be to disable access to the `/files` directo
 
 ## Level 3
 ##### URL: [http://natas3.natas.labs.overthewire.org](http://natas3.natas.labs.overthewire.org)
-Credentials: `natas3:G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas3:G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q
+</details>
 
 ***
 
@@ -165,7 +177,10 @@ In a real world scenario, the `robots.txt` file should never be exposed, as this
 
 ## Level 4
 ##### URL: [http://natas4.natas.labs.overthewire.org](http://natas4.natas.labs.overthewire.org)
-Credentials: `natas4:tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas4:tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
+</details>
 
 ***
 
@@ -205,7 +220,10 @@ This level demonstrated how attackers could manipulate referers to impersonate a
 
 ## Level 5
 ##### URL: [http://natas5.natas.labs.overthewire.org](http://natas5.natas.labs.overthewire.org)
-Credentials: `natas5:Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas5:Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD
+</details>
 
 ***
 
@@ -259,7 +277,10 @@ Using cookies that are not encrypted, unsigned and easily edited is a problem be
 
 ## Level 6
 ##### URL: [http://natas6.natas.labs.overthewire.org](http://natas6.natas.labs.overthewire.org)
-Credentials: `natas6:fOIvE0MDtPTgRhqmmvvAOt2EfXR6uQgR`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas6:fOIvE0MDtPTgRhqmmvvAOt2EfXR6uQgR
+</details>
 
 ***
 
@@ -297,7 +318,10 @@ The easiest fix for this url vulnerability would be to disable direct access to 
 
 ## Level 7
 ##### URL: [http://natas7.natas.labs.overthewire.org](http://natas7.natas.labs.overthewire.org)
-Credentials: `natas7:jmxSiH3SP6Sonf8dv66ng8v1cIEdjXWr`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas7:jmxSiH3SP6Sonf8dv66ng8v1cIEdjXWr
+</details>
 
 ***
 
@@ -335,7 +359,10 @@ Local File Inclusion is extremely dangerous to the host as it can lead to cross 
 
 ## Level 8
 ##### URL: [http://natas8.natas.labs.overthewire.org](http://natas8.natas.labs.overthewire.org)
-Credentials: `natas8:a6bZCNYwdKqN5cGP11ZdtPg0iImQQhAB`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas8:a6bZCNYwdKqN5cGP11ZdtPg0iImQQhAB
+</details>
 
 ***
 
@@ -377,7 +404,10 @@ The solution to this would be to store the encryption method in a hidden file so
 
 ## Level 9
 ##### URL: [http://natas9.natas.labs.overthewire.org](http://natas9.natas.labs.overthewire.org)
-Credentials: `natas9:Sda6t0vkOPkM8YeOZkAGVhFoaplvlJFd`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas9:Sda6t0vkOPkM8YeOZkAGVhFoaplvlJFd
+</details>
 
 ***
 
@@ -416,7 +446,10 @@ The solution to this would be to store the password in a separate file that canâ
 
 ## Level 10
 ##### URL: [http://natas10.natas.labs.overthewire.org](http://natas10.natas.labs.overthewire.org)
-Credentials: `natas10:D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE`
+<details>
+<summary>Click me to see the Level Credentials!</summary>
+natas10:D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE
+</details>
 
 ***
 
