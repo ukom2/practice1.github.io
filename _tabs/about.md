@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-CTCS Blog written at internship.
+ukom2's Blog.

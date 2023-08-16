@@ -206,7 +206,9 @@ natas4:tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm
 ***
 
 ### Solution
-Level 4 showed on the page that the user had to come from the site/the referer had to be `natas5.natas.labs.overthewire.org` in order to be shown the password, or, the referer had to be changed to the desired url somehow. The method that I used for this was I used Burp Suite to intercept the proxy request and manipulate it so that it now had a different referer. Having done this, the page returned the password.
+Level 4 showed on the page that the user had to come from the site/the referer had to be `natas5.natas.labs.overthewire.org` in order to be shown the password, or, the referer had to be changed to the desired url somehow. The method that I used for this was I used 
+Burp Suite[^1]
+to intercept the proxy request and manipulate it so that it now had a different referer. Having done this, the page returned the password.
 <br>
 ### Fix
 This level demonstrated how attackers could manipulate referers to impersonate a legitimate user. In a real world scenario, checking the referer header as a means of security is an extremely poor choice. The solution would be to not use it as a means of authentication, rather to look towards a more practical means such as a login.
@@ -494,3 +496,7 @@ The solution to this would be the same as the previous level - store the passwor
 
 If you are interested in reading about the next 10 levels, click [**here**](/posts/nataslevel11-20/).
 <br>
+
+### Additional Footnotes
+
+[^1]: Burp Suite is a usable tool that helps exploit website vulnerabilities which developers and ethical hackers can use to learn about and improve security. I chose to use this application, however there are also other similarly functioning programs such as Hydra.

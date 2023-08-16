@@ -5,21 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd501006-998d-4f7c-87d3-855cd4e3dfd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-08-13-OWASPResearch1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-08-nataslevel0to10.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-08-nataslevel0to10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-08-13-OWASPResearch1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-08-13-OWASPResearch1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/data/search.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/js/data/search.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/data/swcache.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/js/data/swcache.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/categories/blogging/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/blogging/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/categories/introduction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/introduction/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/categories/writeup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/writeup/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/norobots/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/norobots/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/posts/getting-started/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/getting-started/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/nataslevel0to10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/nataslevel0to10/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/posts/nataslevel11-20/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/nataslevel11-20/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/nataslevel21-25/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/nataslevel21-25/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/redirects.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/redirects.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tabs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tabs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tabs/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tabs/categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tabs/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tabs/tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/blogging/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/blogging/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/cybersecurity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/cybersecurity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/introduction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/introduction/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/tags/natas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/natas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/programming/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/programming/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tags/wargame/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/wargame/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_tabs/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_tabs/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
