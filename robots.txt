@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://ukom2.github.io/practice1.github.io/sitemap.xml
+Sitemap: http://localhost:4000/practice1.github.io/sitemap.xml

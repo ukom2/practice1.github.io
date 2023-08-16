@@ -41,7 +41,7 @@ const resource = [
 const allowedDomains = [
     
 
-    'ukom2.github.io',
+    'localhost:4000',
 
     
 

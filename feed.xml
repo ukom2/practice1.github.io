@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://ukom2.github.io/practice1.github.io/</id>
-  <title>CTCS Blog</title>
+  <id>http://localhost:4000/practice1.github.io/</id>
+  <title>ukom2 Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-08-10T17:21:41+04:00</updated>
+  <updated>2023-08-15T09:37:23+04:00</updated>
   <author>
     <name>ukom2</name>
-    <uri>https://ukom2.github.io/practice1.github.io/</uri>
+    <uri>http://localhost:4000/practice1.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://ukom2.github.io/practice1.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/practice1.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://ukom2.github.io/practice1.github.io/"/>
+    href="http://localhost:4000/practice1.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 ukom2 </rights>
   <icon>/practice1.github.io/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,49 @@
 
   
   <entry>
+    <title>OWASP Research Page</title>
+    <link href="http://localhost:4000/practice1.github.io/posts/OWASPResearch1/" rel="alternate" type="text/html" title="OWASP Research Page" />
+    <published>2023-08-13T16:55:00+04:00</published>
+  
+    <updated>2023-08-13T16:55:00+04:00</updated>
+  
+    <id>http://localhost:4000/practice1.github.io/posts/OWASPResearch1/</id>
+    <content src="http://localhost:4000/practice1.github.io/posts/OWASPResearch1/" />
+    <author>
+      <name>ukom2</name>
+    </author>
+
+  
+    
+    <category term="Research" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Natas Wargame Writeup (Levels 0-10)</title>
-    <link href="https://ukom2.github.io/practice1.github.io/posts/nataslevel0to10/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 0-10)" />
+    <link href="http://localhost:4000/practice1.github.io/posts/nataslevel0to10/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 0-10)" />
     <published>2023-08-07T16:57:00+04:00</published>
   
-    <updated>2023-08-10T15:38:20+04:00</updated>
+    <updated>2023-08-14T14:25:57+04:00</updated>
   
-    <id>https://ukom2.github.io/practice1.github.io/posts/nataslevel0to10/</id>
-    <content src="https://ukom2.github.io/practice1.github.io/posts/nataslevel0to10/" />
+    <id>http://localhost:4000/practice1.github.io/posts/nataslevel0to10/</id>
+    <content src="http://localhost:4000/practice1.github.io/posts/nataslevel0to10/" />
     <author>
       <name>ukom2</name>
     </author>
@@ -60,13 +95,13 @@ In this writeup I will present everything in levels 0 - 10. The code in each lev
   
   <entry>
     <title>Natas Wargame Writeup (Levels 11-20)</title>
-    <link href="https://ukom2.github.io/practice1.github.io/posts/nataslevel11-20/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 11-20)" />
+    <link href="http://localhost:4000/practice1.github.io/posts/nataslevel11-20/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 11-20)" />
     <published>2023-08-07T16:56:00+04:00</published>
   
-    <updated>2023-08-10T11:27:11+04:00</updated>
+    <updated>2023-08-14T14:25:57+04:00</updated>
   
-    <id>https://ukom2.github.io/practice1.github.io/posts/nataslevel11-20/</id>
-    <content src="https://ukom2.github.io/practice1.github.io/posts/nataslevel11-20/" />
+    <id>http://localhost:4000/practice1.github.io/posts/nataslevel11-20/</id>
+    <content src="http://localhost:4000/practice1.github.io/posts/nataslevel11-20/" />
     <author>
       <name>ukom2</name>
     </author>
@@ -111,13 +146,13 @@ $defaultdata = array( "showpassword"=&amp;gt;"no", "bgcolor"=&amp;gt;"#...
   
   <entry>
     <title>Introduction to Natas Wargame</title>
-    <link href="https://ukom2.github.io/practice1.github.io/posts/getting-started/" rel="alternate" type="text/html" title="Introduction to Natas Wargame" />
+    <link href="http://localhost:4000/practice1.github.io/posts/getting-started/" rel="alternate" type="text/html" title="Introduction to Natas Wargame" />
     <published>2023-08-07T16:55:00+04:00</published>
   
-    <updated>2023-08-10T11:20:17+04:00</updated>
+    <updated>2023-08-14T14:25:57+04:00</updated>
   
-    <id>https://ukom2.github.io/practice1.github.io/posts/getting-started/</id>
-    <content src="https://ukom2.github.io/practice1.github.io/posts/getting-started/" />
+    <id>http://localhost:4000/practice1.github.io/posts/getting-started/</id>
+    <content src="http://localhost:4000/practice1.github.io/posts/getting-started/" />
     <author>
       <name>ukom2</name>
     </author>
@@ -153,13 +188,13 @@ Each level of natas consists of its own website located at http://natasX.natas.l
   
   <entry>
     <title>Natas Wargame Writeup (Levels 21-25)</title>
-    <link href="https://ukom2.github.io/practice1.github.io/posts/nataslevel21-25/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 21-25)" />
+    <link href="http://localhost:4000/practice1.github.io/posts/nataslevel21-25/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 21-25)" />
     <published>2023-08-07T16:55:00+04:00</published>
   
-    <updated>2023-08-10T11:43:19+04:00</updated>
+    <updated>2023-08-14T14:25:57+04:00</updated>
   
-    <id>https://ukom2.github.io/practice1.github.io/posts/nataslevel21-25/</id>
-    <content src="https://ukom2.github.io/practice1.github.io/posts/nataslevel21-25/" />
+    <id>http://localhost:4000/practice1.github.io/posts/nataslevel21-25/</id>
+    <content src="http://localhost:4000/practice1.github.io/posts/nataslevel21-25/" />
     <author>
       <name>ukom2</name>
     </author>
