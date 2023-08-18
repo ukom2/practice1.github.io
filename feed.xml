@@ -4,7 +4,7 @@
   <id>http://localhost:4000/practice1.github.io/</id>
   <title>ukom2 Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-08-18T11:29:57+04:00</updated>
+  <updated>2023-08-18T14:30:54+04:00</updated>
   <author>
     <name>ukom2</name>
     <uri>http://localhost:4000/practice1.github.io/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>CTCS Internship Summary</title>
     <link href="http://localhost:4000/practice1.github.io/posts/internsummary/" rel="alternate" type="text/html" title="CTCS Internship Summary" />
-    <published>2023-08-13T16:55:00+04:00</published>
+    <published>2023-08-16T16:55:00+04:00</published>
   
-    <updated>2023-08-13T16:55:00+04:00</updated>
+    <updated>2023-08-16T16:55:00+04:00</updated>
   
     <id>http://localhost:4000/practice1.github.io/posts/internsummary/</id>
     <content src="http://localhost:4000/practice1.github.io/posts/internsummary/" />

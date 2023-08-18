@@ -46,13 +46,13 @@
 <meta property="og:url" content="http://localhost:4000/practice1.github.io/posts/internsummary/" />
 <meta property="og:site_name" content="ukom2 Blog" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2023-08-13T16:55:00+04:00" />
+<meta property="article:published_time" content="2023-08-16T16:55:00+04:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="CTCS Internship Summary" />
 <meta name="twitter:site" content="@N/A" />
 <meta name="twitter:creator" content="@ukom2" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"ukom2","url":"https://github.com/ukom2/"},"dateModified":"2023-08-13T16:55:00+04:00","datePublished":"2023-08-13T16:55:00+04:00","description":"Introduction","headline":"CTCS Internship Summary","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/practice1.github.io/posts/internsummary/"},"url":"http://localhost:4000/practice1.github.io/posts/internsummary/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"ukom2","url":"https://github.com/ukom2/"},"dateModified":"2023-08-16T16:55:00+04:00","datePublished":"2023-08-16T16:55:00+04:00","description":"Introduction","headline":"CTCS Internship Summary","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/practice1.github.io/posts/internsummary/"},"url":"http://localhost:4000/practice1.github.io/posts/internsummary/"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -671,6 +671,18 @@
       
 
     
+      
+
+      
+      
+
+      
+      
+      
+
+      
+
+    
 
     
 
@@ -687,6 +699,30 @@
       
         
         
+      
+
+      
+      
+
+      
+      
+      
+
+      
+
+    
+      
+
+      
+      
+
+      
+      
+      
+
+      
+
+    
       
 
       
@@ -763,13 +799,13 @@
 
 <em
   class=""
-  data-ts="1691931300"
+  data-ts="1692190500"
   data-df="ll"
   
     data-bs-toggle="tooltip" data-bs-placement="bottom"
   
 >
-  Aug 13, 2023
+  Aug 16, 2023
 </em>
 
     </span>
@@ -818,9 +854,9 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="341 words"
+  title="776 words"
 >
-  <em>1 min</em> read</span>
+  <em>4 min</em> read</span>
 
     </div>
 
@@ -847,10 +883,12 @@ In order to be able to achieve this goal, I attempted various Capture the Flag c
 <p>Having begun the internship with little to no experience regarding the new world of cybersecurity, I was very curious about the principles of the field.
 I was first introduced to the <code class="language-plaintext highlighter-rouge">natas</code> wargame constructed by OverTheWire.</p>
 
-<h3 id="wargame-overview"><span class="me-2">Wargame Overview</span><a href="#wargame-overview" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+<h3 id="wargame-challenge-overview"><span class="me-2">Wargame Challenge Overview</span><a href="#wargame-challenge-overview" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
 <p>The purpose of the Natas Wargame was to introduce people to the concept of finding exploits and vulnerabilities which may affect someone in a real world scenario.
 In short, there is a password hidden in each of the 35 levels of the wargame, and it is the player’s objective to somehow retrieve the password by exploiting intentional vulnerabilities in the website’s code using various different hacking techniques.</p>
+
+<p>Many of the vulnerabilities are shown by oWasp, the Open Worldwide App Security Project, and PortSwigger<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, both of which provide immense levels of detail on each and every exploit that an attacker may attempt as well as how they are executed and the preventions for each method.</p>
 
 <h3 id="my-wargame-experience"><span class="me-2">My Wargame Experience</span><a href="#my-wargame-experience" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
 
@@ -864,7 +902,39 @@ In short, there is a password hidden in each of the 35 levels of the wargame, an
 I initially started off with the basic principles of git using <a href="https://learngitbranching.js.org/"><em>learngitbranching.js.org</em></a>, which taught the properties and functioning methods of Git through a visual interactive demonstration.</p>
 
 <p>From this website, I was able to learn about and understand how git branching worked and how files were ‘uploaded’ (committed) to github and then hosted on github pages, which enabled me to create my own blog.
-This was done by importing a theme and editing the content using github desktop in conjunction to Android Desktop Studio,</p>
+This was done by importing a theme and editing the content using github desktop in conjunction to Android Desktop Studio, a desktop editor. Afterwards, I did some more research and managed to incorporate a comments section to my blog, via Disqus, which allows me to moderate and interact with the comments.</p>
+
+<p>I used markdown and jekyll<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> to create my blogs along with npm enabling more aesthetic designs.</p>
+
+<h3 id="followup"><span class="me-2">Followup</span><a href="#followup" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+
+<p>Continuing from this, I learnt about servers, mainly the Domain Name System, or DNS, and how users are directed to various different websites.</p>
+
+<p>Starting with the URL, the user’s computer, or resolver, sends the target address to the system. The DNS recursor receives this initial transmission and, based off of the domain extension<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>, the recursor then makes additional requests to the root nameserver, the top level domain and finally the authoritative nameserver until the target URL is found and is translated into an internet protocol (IP) address. 
+The IP is then sent all the way back to the user’s web browser, which directs the user to their desired website. In the case that the url is invalid, the resolver will not send out a request.
+Multiple addresses can be linked to the same root, likewise the same address can lead to a different page depending on the user.</p>
+
+<h3 id="smash-the-stack"><span class="me-2">Smash The Stack</span><a href="#smash-the-stack" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h3>
+
+<p>The final challenge that I attempted during my internship was the wargame known as Smashthestack, or the IO wargame. This was an ssh based wargame which involved the usage of terminal far more than the previous.
+In addition to that being new, all the code was written in C, which was completely new to me. In order to approach the wargame, I explored the basics of C and C++ syntax in order to understand the source codes better.
+Having completed part of Smash the Stack, I’ve gained insight into how GDB/gnu debugger and radare2 can be used to debug and breakdown programs in a practical scenario to improve code and find hidden information.</p>
+
+<h2 id="footnotes"><span class="me-2">Footnotes</span><a href="#footnotes" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Portswigger is a free online training academy specifically regarding web security <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Markdown is a simplified version of hypertext markup language, or html. It allows the programmer to easily write blogs or articles due to the nature of its simplified syntax. Jekyll is one of many addons that can be used to enhance the webpage. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>The domain extension essentially is the last part of a url address - for example the dot com in google.com. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
 </div>
 
