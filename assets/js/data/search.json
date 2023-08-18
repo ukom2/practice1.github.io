@@ -1,10 +1,27 @@
 [
   
   {
+    "title": "CTCS Internship Summary",
+    "url": "/practice1.github.io/posts/internsummary/",
+    "categories": "Blogging",
+    "tags": "Internship summary, Blogging",
+    "date": "2023-08-13 16:55:00 +0400",
+    
+
+
+
+
+
+    
+    "snippet": "IntroductionThis blog post is a summary of my learning experiences and challenges that I came across when working an internship at the CT Corporate Services in an office environment as a GCSE level...",
+    "content": "IntroductionThis blog post is a summary of my learning experiences and challenges that I came across when working an internship at the CT Corporate Services in an office environment as a GCSE level student.I also attempt to cover future improvements that I could attempt.The main subject of work that I approached during this internship was cyber security and I learnt about both server sided and client sided vulnerabilities which can be exploited by hackers in a real world scenario.In order to be able to achieve this goal, I attempted various Capture the Flag challenges and coding tasks, which I will discuss in this blog.LearningOverthewire.orgHaving begun the internship with little to no experience regarding the new world of cybersecurity, I was very curious about the principles of the field.I was first introduced to the natas wargame constructed by OverTheWire.Wargame OverviewThe purpose of the Natas Wargame was to introduce people to the concept of finding exploits and vulnerabilities which may affect someone in a real world scenario.In short, there is a password hidden in each of the 35 levels of the wargame, and it is the player’s objective to somehow retrieve the password by exploiting intentional vulnerabilities in the website’s code using various different hacking techniques.My Wargame ExperienceYou can read more about my natas wargame experience here.Learning GitTo understand code, improve overall coding efficiency and host my own webpages, it was necessary for me to learn how to utilise github, github pages and git properly.I initially started off with the basic principles of git using learngitbranching.js.org, which taught the properties and functioning methods of Git through a visual interactive demonstration.From this website, I was able to learn about and understand how git branching worked and how files were ‘uploaded’ (committed) to github and then hosted on github pages, which enabled me to create my own blog.This was done by importing a theme and editing the content using github desktop in conjunction to Android Desktop Studio,"
+  },
+  
+  {
     "title": "OWASP Research Page",
     "url": "/practice1.github.io/posts/OWASPResearch1/",
     "categories": "Research",
-    "tags": "cybersecurity, research, owasp",
+    "tags": "Cybersecurity, Research, OWASP",
     "date": "2023-08-13 16:55:00 +0400",
     
 
@@ -21,7 +38,7 @@
     "title": "Natas Wargame Writeup (Levels 0-10)",
     "url": "/practice1.github.io/posts/nataslevel0to10/",
     "categories": "Blogging, Writeup",
-    "tags": "blogging, cybersecurity, programming, wargame, natas",
+    "tags": "Blogging, Cybersecurity, Programming, Wargame, Natas",
     "date": "2023-08-07 16:57:00 +0400",
     
 
@@ -38,7 +55,7 @@
     "title": "Natas Wargame Writeup (Levels 11-20)",
     "url": "/practice1.github.io/posts/nataslevel11-20/",
     "categories": "Blogging, Writeup",
-    "tags": "blogging, cybersecurity, programming, wargame, natas",
+    "tags": "Blogging, Cybersecurity, Programming, Wargame, Natas",
     "date": "2023-08-07 16:56:00 +0400",
     
 
@@ -55,7 +72,7 @@
     "title": "Introduction to Natas Wargame",
     "url": "/practice1.github.io/posts/getting-started/",
     "categories": "Blogging, Introduction",
-    "tags": "introduction",
+    "tags": "Introduction",
     "date": "2023-08-07 16:55:00 +0400",
     
 
@@ -72,7 +89,7 @@
     "title": "Natas Wargame Writeup (Levels 21-25)",
     "url": "/practice1.github.io/posts/nataslevel21-25/",
     "categories": "Blogging, Writeup",
-    "tags": "blogging, cybersecurity, programming, wargame, natas",
+    "tags": "Blogging, Cybersecurity, Programming, Wargame, Natas",
     "date": "2023-08-07 16:55:00 +0400",
     
 

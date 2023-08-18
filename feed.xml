@@ -4,7 +4,7 @@
   <id>http://localhost:4000/practice1.github.io/</id>
   <title>ukom2 Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2023-08-15T09:37:23+04:00</updated>
+  <updated>2023-08-18T11:29:57+04:00</updated>
   <author>
     <name>ukom2</name>
     <uri>http://localhost:4000/practice1.github.io/</uri>
@@ -20,11 +20,50 @@
 
   
   <entry>
+    <title>CTCS Internship Summary</title>
+    <link href="http://localhost:4000/practice1.github.io/posts/internsummary/" rel="alternate" type="text/html" title="CTCS Internship Summary" />
+    <published>2023-08-13T16:55:00+04:00</published>
+  
+    <updated>2023-08-13T16:55:00+04:00</updated>
+  
+    <id>http://localhost:4000/practice1.github.io/posts/internsummary/</id>
+    <content src="http://localhost:4000/practice1.github.io/posts/internsummary/" />
+    <author>
+      <name>ukom2</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Introduction
+
+This blog post is a summary of my learning experiences and challenges that I came across when working an internship at the CT Corporate Services in an office environment as a GCSE level student.
+I also attempt to cover future improvements that I could attempt.
+
+The main subject of work that I approached during this internship was cyber security and I learnt about both server sided...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>OWASP Research Page</title>
     <link href="http://localhost:4000/practice1.github.io/posts/OWASPResearch1/" rel="alternate" type="text/html" title="OWASP Research Page" />
     <published>2023-08-13T16:55:00+04:00</published>
   
-    <updated>2023-08-13T16:55:00+04:00</updated>
+    <updated>2023-08-16T11:37:38+04:00</updated>
   
     <id>http://localhost:4000/practice1.github.io/posts/OWASPResearch1/</id>
     <content src="http://localhost:4000/practice1.github.io/posts/OWASPResearch1/" />
@@ -59,7 +98,7 @@
     <link href="http://localhost:4000/practice1.github.io/posts/nataslevel0to10/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 0-10)" />
     <published>2023-08-07T16:57:00+04:00</published>
   
-    <updated>2023-08-14T14:25:57+04:00</updated>
+    <updated>2023-08-16T11:39:19+04:00</updated>
   
     <id>http://localhost:4000/practice1.github.io/posts/nataslevel0to10/</id>
     <content src="http://localhost:4000/practice1.github.io/posts/nataslevel0to10/" />
@@ -180,57 +219,6 @@ Natas teaches the basics of serverside cybersecurity through practical applicati
 How Does the Wargame work?
 
 Each level of natas consists of its own website located at http://natasX.natas.labs.overthewire.org, wher...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Natas Wargame Writeup (Levels 21-25)</title>
-    <link href="http://localhost:4000/practice1.github.io/posts/nataslevel21-25/" rel="alternate" type="text/html" title="Natas Wargame Writeup (Levels 21-25)" />
-    <published>2023-08-07T16:55:00+04:00</published>
-  
-    <updated>2023-08-14T14:25:57+04:00</updated>
-  
-    <id>http://localhost:4000/practice1.github.io/posts/nataslevel21-25/</id>
-    <content src="http://localhost:4000/practice1.github.io/posts/nataslevel21-25/" />
-    <author>
-      <name>ukom2</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Writeup" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Introduction
-
-This blog post contains the writeup for the natas wargame levels 21 to 25.
-If you haven’t already, I recommend reading the previous articles on the introduction and the writeups on Levels 0-10 and Levels 11-20.
-
-Level 21
-URL: http://natas21.natas.labs.overthewire.org
-Credentials: natas21:89OWrTkGmiLZLv12JY4tLj2c4FW0xn56
-
-
-
-Code
-
-&amp;lt;html&amp;gt;
-&amp;lt;body&amp;gt;
-&amp;lt;h1&amp;gt;natas21&amp;lt;/h1&amp;g...
     </summary>
   
 
